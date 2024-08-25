@@ -12,6 +12,7 @@
   }
   .ho-menu:hover{
     color: #D59E0F !important;
+    cursor: pointer;
   }
   .ho-btn:hover{
     background-color: #D59E0F !important;
@@ -190,6 +191,7 @@
     padding-top: 20px;
     color: #fff;
     text-align: center;
+    margin-bottom: 40px;
     .main-title-sub2{
         font-weight: bold;
         margin-top: 5px;
@@ -203,6 +205,7 @@
 .btn-container2{
     margin-top: 25px;
     text-align: center;
+    margin-top: 35px;
     img{
         margin-right: 10px;
     }
@@ -211,7 +214,7 @@
     }
 }
 .buy-btn{
-        padding: 10px 20px;
+        padding: 10px 33px;
         font-size: 14px;
         border: 2px solid #D59E0F;
         color: #fff;
@@ -263,7 +266,7 @@
                 color: #2E2925;
                 font-family: Open Sans;
                 text-align: left;
-                margin-bottom: 30px;
+                margin-bottom: 45px;
                 padding-right: 81px;
             }
             .q-button{
@@ -301,6 +304,7 @@
     background-color: #f1f1f1;
     padding-bottom: 106px;
     padding-top: 76px;
+    margin-bottom: 75px;
     .title{
         font-size: 40px;
         text-align: center;
